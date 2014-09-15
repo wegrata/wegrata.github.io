@@ -61,7 +61,33 @@
         <li class="slide"><p>Now what?</p></li>
       </ul>
     </section>
-
+    <section class="slide">
+      <h2>Soft Skills</h2>
+      <ul>
+        <li class="slide">
+          <p>
+            Active Listening - In order to build software successfully you really have to be able to listen to what your users are saying.
+          </p>
+        </li>
+        <li class="slide">
+          <p>
+            Public Speaking 
+          </p>
+          <ul>
+            <li class="slide">
+              <p>
+                At Work - You have to be able to clearly explain your ideas and concerns to your coworkers.
+              </p>
+            </li>
+            <li class="slide">
+              <p>
+                Career - Speaking at user groups and conferences is a great way to grow your career and get information about good job oppertunities
+              </p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </section>
     <section class="slide">
       <h2>Task Management</h2>
       <p>Tools that help you manage all the tasking on a project, so the team can stay on the same page.  It also gives other members of the team into who's doing what</p>
@@ -176,100 +202,77 @@
             </li>
           </li>
         </ul>
-      </section>    
-      <section class="slide">
-        <h2>Managing Deployments</h2>
-        <p>
-          Tools to help you provision VMs, configure servers, deploy updates in a reliable and repeatable way.
-          <ul>
-            <li class="slide">chef</li>
-            <li class="slide">puppet</li>
-            <li class="slide">salt stack</li>
-          </ul>
-        </p>
-      </section>
-      <section class="slide">
-        <h2>Monitoring your application</h2>
+      </li>
+    </section>    
+    <section class="slide">
+      <h2>Managing Deployments</h2>
+      <p>
+        Tools to help you provision VMs, configure servers, deploy updates in a reliable and repeatable way.
         <ul>
-          <li class="slide">
-            <p>Production Resource Monitoring</p>
+          <li class="slide">chef</li>
+          <li class="slide">puppet</li>
+          <li class="slide">salt stack</li>
+        </ul>
+      </p>
+    </section>
+    <section class="slide">
+      <h2>Monitoring your application</h2>
+      <ul>
+        <li class="slide">
+          <p>Production Resource Monitoring</p>
+          <ul>
+            <li class="slide">Boundary</li>
+            <li class="slide">New Relic</li>
+          </ul>
+        </li>
+        <li class="slide">
+          <p>Error reporting</p>
+          <ul>
+            <li class="slide">Elmah</li>
+            <li class="slide">Sentry</li>
             <ul>
-              <li class="slide">Boundary</li>
-              <li class="slide">New Relic</li>
-            </ul>
-          </li>
-          <li class="slide">
-            <p>Error reporting</p>
-            <ul>
-              <li class="slide">Elmah</li>
-              <li class="slide">Sentry</li>
-              <ul>
-              </li>
-              <li class="slide">
-                <p>Profiling</p>
-                <p>Depends on platform</p>
-              </li>
-            </ul>
-          </section>
-          <section class="slide">
-            <h2>Soft Skills</h2>
-            <ul>
-              <li class="slide">
-                <p>
-                  Active Listening - In order to build software successfully you really have to be able to listen to what your users are saying.
-                </p>
-              </li>
-              <li class="slide">
-                <p>
-                  Public Speaking 
-                </p>
-                <ul>
-                  <li class="slide">
-                    <p>
-                      At Work - You have to be able to clearly explain your ideas and concerns to your coworkers.
-                    </p>
-                  </li>
-                  <li class="slide">
-                    <p>
-                      Career - Speaking at user groups and conferences is a great way to grow your career and get information about good job oppertunities
-                    </p>
-                  </li>
-                </ul>
-              </li>
-            </ul>
-          </section>
-          <!-- End slides. -->
+            </li>
+            <li class="slide">
+              <p>Profiling</p>
+              <p>Depends on platform</p>
+            </li>
+          </ul>
+        </ul>
+      </li>
+    </ul>
+  </section>
+  <!-- End slides. -->
 
-          <!-- Begin extension snippets. Add or remove as needed. -->
+  <!-- Begin extension snippets. Add or remove as needed. -->
 
 
-          <!-- deck.status snippet -->
-          <p class="deck-status" aria-role="status">
-            <span class="deck-status-current"></span>
-            /
-            <span class="deck-status-total"></span>
-          </p>
+  <!-- deck.status snippet -->
+  <p class="deck-status" aria-role="status">
+    <span class="deck-status-current"></span>
+    /
+    <span class="deck-status-total"></span>
+  </p>
 
 
-          <!-- End extension snippets. -->
-        </div>
+  <!-- End extension snippets. -->
+</div>
 
-        <!-- Required JS files. -->
-        <script src="jquery.min.js"></script>
-        <script src="core/deck.core.js"></script>
+<!-- Required JS files. -->
+<script src="jquery.min.js"></script>
+<script src="core/deck.core.js"></script>
 
-        <!-- Extension JS files. Add or remove as needed. -->
-        <script src="extensions/menu/deck.menu.js"></script>
-        <script src="extensions/goto/deck.goto.js"></script>
-        <script src="extensions/status/deck.status.js"></script>
-        <script src="extensions/navigation/deck.navigation.js"></script>
-        <script src="extensions/scale/deck.scale.js"></script>
+<!-- Extension JS files. Add or remove as needed. -->
+<script src="extensions/menu/deck.menu.js"></script>
+<script src="extensions/goto/deck.goto.js"></script>
+<script src="extensions/status/deck.status.js"></script>
+<script src="extensions/navigation/deck.navigation.js"></script>
+<script src="extensions/scale/deck.scale.js"></script>
 
-        <!-- Initialize the deck. You can put this in an external file if desired. -->
-        <script>
-          $(function() {
-            $.deck('.slide');
-          });
-        </script>
-      </body>
-      </html>
+<!-- Initialize the deck. You can put this in an external file if desired. -->
+<script>
+  $(function() {
+    $.deck('.slide');
+  });
+</script>
+</body>
+</html>
