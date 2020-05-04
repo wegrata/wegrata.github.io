@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grata Family Recipies</title>
+    <link>http://wegrata.github.io/</link>
+    <description>Recent content on Grata Family Recipies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 May 2020 13:35:52 -0700</lastBuildDate>
+    
+	<atom:link href="http://wegrata.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Italian Hot Sausage</title>
+      <link>http://wegrata.github.io/recipies/sausage/italian-hot/</link>
+      <pubDate>Mon, 04 May 2020 13:35:52 -0700</pubDate>
+      
+      <guid>http://wegrata.github.io/recipies/sausage/italian-hot/</guid>
+      <description>Italian Hot Sausage Ingredients    Ingredient Weight     Pork 25lbs   Salt 8oz   Sugar 3oz   Crushed Red Pepper 4oz   Fennel 2oz   Anise 2oz   Powdered Milk 12oz   Water 0.5 gal    Process </description>
+    </item>
+    
+  </channel>
+</rss>
