@@ -6,10 +6,19 @@
     <description>Recent content on Grata Family Recipies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2020 13:35:52 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 09:03:30 -0700</lastBuildDate>
     
 	<atom:link href="http://wegrata.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Italian Sweet</title>
+      <link>http://wegrata.github.io/recipies/sausage/italian-sweet/</link>
+      <pubDate>Mon, 11 May 2020 09:03:30 -0700</pubDate>
+      
+      <guid>http://wegrata.github.io/recipies/sausage/italian-sweet/</guid>
+      <description>Ingredients    Ingredient Weight     Pork 11340g   Salt 227g   Sugar 85g   Crushed Red Pepper 35g   Fennel 57g   Anise 57   Powdered Milk 340g   Water 3783 g    Process </description>
+    </item>
     
     <item>
       <title>Italian Hot Sausage</title>
@@ -17,7 +26,7 @@
       <pubDate>Mon, 04 May 2020 13:35:52 -0700</pubDate>
       
       <guid>http://wegrata.github.io/recipies/sausage/italian-hot/</guid>
-      <description>Italian Hot Sausage Ingredients    Ingredient Weight     Pork 25lbs   Salt 8oz   Sugar 3oz   Crushed Red Pepper 4oz   Fennel 2oz   Anise 2oz   Powdered Milk 12oz   Water 0.5 gal    Process </description>
+      <description>Italian Hot Sausage Ingredients    Ingredient Weight     Pork 11340g   Salt 227g   Sugar 85g   Crushed Red Pepper 113g   Fennel 57g   Anise 57g   Powdered Milk 340g   Water 3783 g    Process </description>
     </item>
     
   </channel>
